@@ -1,2 +1,3 @@
-# RetoAmigoSecretoAlura2025
-proyecto de amigo secreto o sorteo de amigos
+# El Proyecto Amigo Secreto de Alura 
+
+primer proyecto, de muchos que estoy seguro que se realizaran.
